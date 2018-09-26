@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [:liveVideoBroadcasterSDK] /home/santhosh/Downloads/ones_aws/liveVideoBroadcasterSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/96bb73af5b953d8fb3cd8942a28d5a77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/230e45cf3c5b91137f2947b00a100e50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-2.8.3.aar/e86ba1fafc74b1912acc07fa8bf24552/AndroidManifest.xml:17:1-24:12
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] /home/santhosh/.gradle/caches/transforms-1/files-1.1/rtmp-client-3.0.1.aar/8877546f73a5c7158e7669c6aac5e35b/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/181e2af4e72001fba128c8c175ad3e61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/b7234e820c65173c7a984cfc6d3b1b0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/1a792df4bfb56b5c1d55e39b4fe53e22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/c8e9b1853e90d349c257ce54208d0e34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/18cb446c849a542a7757a3323ba7f17b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.8.3.aar/627bac4c26dc911e75f60d903f9ea350/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.8.3.aar/74938fc512af7bcaea5376ee19a4fcaa/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.8.3.aar/2e9c5739a709807fefbac97b597d3a90/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.8.3.aar/15c907c0b942eddd94f4d031a631b939/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.8.3.aar/c84dae7f108155a890d15de3c6c889c7/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/e8e813756805eed2f532b4dbb355b6d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/5a190d4ce35a3d4bd88b820af1909fa5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/c4ec121e17b47335217bed3c9cd12479/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/30e4eec6440b027f4e28a6d5d3e7b584/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/ee3c130cb45dd887dc5d08c86fe202c2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ff99998fa54906f2b392f1c416c2d2e6/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:3:5-56
+		INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml
+		INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:2:1-41:12
+		INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] /home/santhosh/.gradle/caches/transforms-1/files-1.1/rtmp-client-3.0.1.aar/8877546f73a5c7158e7669c6aac5e35b/AndroidManifest.xml:11:5-67
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] /home/santhosh/.gradle/caches/transforms-1/files-1.1/rtmp-client-3.0.1.aar/8877546f73a5c7158e7669c6aac5e35b/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.8.3.aar/c84dae7f108155a890d15de3c6c889c7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.8.3.aar/c84dae7f108155a890d15de3c6c889c7/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:8:22-76
+uses-feature#0x00020000
+ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:10:5-12:35
+	android:glEsVersion
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:11:9-41
+	android:required
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:12:9-32
+application
+ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:14:5-39:19
+MERGED from [:liveVideoBroadcasterSDK] /home/santhosh/Downloads/ones_aws/liveVideoBroadcasterSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:liveVideoBroadcasterSDK] /home/santhosh/Downloads/ones_aws/liveVideoBroadcasterSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ff99998fa54906f2b392f1c416c2d2e6/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ff99998fa54906f2b392f1c416c2d2e6/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:19:9-40
+activity#io.antmedia.android1.MainActivity
+ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:21:19-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:25:27-74
+activity#io.antmedia.android1.liveVideoBroadcaster.LiveVideoBroadcasterActivity
+ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:29:9-32:15
+	android:configChanges
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:31:13-74
+	android:theme
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:29:19-104
+activity#io.antmedia.android1.liveVideoPlayer.LiveVideoPlayerActivity
+ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:34:9-36:15
+	android:theme
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:35:13-48
+	android:name
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:34:19-94
+service#io.antmedia.android1.broadcaster.LiveVideoBroadcaster
+ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:38:9-89
+	android:name
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml:38:18-86
+uses-sdk
+INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml
+INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml
+MERGED from [:liveVideoBroadcasterSDK] /home/santhosh/Downloads/ones_aws/liveVideoBroadcasterSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:liveVideoBroadcasterSDK] /home/santhosh/Downloads/ones_aws/liveVideoBroadcasterSDK/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/96bb73af5b953d8fb3cd8942a28d5a77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/96bb73af5b953d8fb3cd8942a28d5a77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/230e45cf3c5b91137f2947b00a100e50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/230e45cf3c5b91137f2947b00a100e50/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-2.8.3.aar/e86ba1fafc74b1912acc07fa8bf24552/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-2.8.3.aar/e86ba1fafc74b1912acc07fa8bf24552/AndroidManifest.xml:20:5-22:41
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] /home/santhosh/.gradle/caches/transforms-1/files-1.1/rtmp-client-3.0.1.aar/8877546f73a5c7158e7669c6aac5e35b/AndroidManifest.xml:7:5-9:41
+MERGED from [net.butterflytv.utils:rtmp-client:3.0.1] /home/santhosh/.gradle/caches/transforms-1/files-1.1/rtmp-client-3.0.1.aar/8877546f73a5c7158e7669c6aac5e35b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/181e2af4e72001fba128c8c175ad3e61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/181e2af4e72001fba128c8c175ad3e61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/b7234e820c65173c7a984cfc6d3b1b0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/b7234e820c65173c7a984cfc6d3b1b0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/1a792df4bfb56b5c1d55e39b4fe53e22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/1a792df4bfb56b5c1d55e39b4fe53e22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/c8e9b1853e90d349c257ce54208d0e34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/c8e9b1853e90d349c257ce54208d0e34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/18cb446c849a542a7757a3323ba7f17b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/18cb446c849a542a7757a3323ba7f17b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.8.3.aar/627bac4c26dc911e75f60d903f9ea350/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.8.3.aar/627bac4c26dc911e75f60d903f9ea350/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.8.3.aar/74938fc512af7bcaea5376ee19a4fcaa/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.8.3.aar/74938fc512af7bcaea5376ee19a4fcaa/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.8.3.aar/2e9c5739a709807fefbac97b597d3a90/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.8.3.aar/2e9c5739a709807fefbac97b597d3a90/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.8.3.aar/15c907c0b942eddd94f4d031a631b939/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.8.3.aar/15c907c0b942eddd94f4d031a631b939/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.8.3.aar/c84dae7f108155a890d15de3c6c889c7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.3] /home/santhosh/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.8.3.aar/c84dae7f108155a890d15de3c6c889c7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/e8e813756805eed2f532b4dbb355b6d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/e8e813756805eed2f532b4dbb355b6d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/5a190d4ce35a3d4bd88b820af1909fa5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/5a190d4ce35a3d4bd88b820af1909fa5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/c4ec121e17b47335217bed3c9cd12479/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/c4ec121e17b47335217bed3c9cd12479/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/30e4eec6440b027f4e28a6d5d3e7b584/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/30e4eec6440b027f4e28a6d5d3e7b584/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/ee3c130cb45dd887dc5d08c86fe202c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/ee3c130cb45dd887dc5d08c86fe202c2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ff99998fa54906f2b392f1c416c2d2e6/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ff99998fa54906f2b392f1c416c2d2e6/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml
+INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml
+		INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml
+		ADDED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml
+		INJECTED from /home/santhosh/Downloads/ones_aws/app/src/main/AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ff99998fa54906f2b392f1c416c2d2e6/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ff99998fa54906f2b392f1c416c2d2e6/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/santhosh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ff99998fa54906f2b392f1c416c2d2e6/AndroidManifest.xml:26:13-58
